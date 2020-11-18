@@ -19,3 +19,5 @@ SocialMedia: https://www.linkedin.com/in/gonzalomartincano/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalomartincano&layout=compact&hide_border=black)](https://github.com/gonzalomartincano/github-readme-stats)
 
 <img   width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
+<img   width="100" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+
