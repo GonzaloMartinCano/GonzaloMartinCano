@@ -1,3 +1,4 @@
+<div align="center"/>
 <h3> Hi World! 👋 <br/> <br/> 
   I am a Full Stack Web Developer. <br/>  <br/> 
   I am a Ironhack alumni and continue to expand my knowledge as a 42Madrid student.
@@ -10,7 +11,7 @@ Portfolio:   https://gonzalomartincano.github.io/PORTFOLIO/ <br/>
 SocialMedia: https://www.linkedin.com/in/gonzalomartincano/
 
 
-<div align="center"/>
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gonzalomartincano&count_private=true&show_icons=true&hide_border=black)
 
