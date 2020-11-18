@@ -1,7 +1,9 @@
-<h2> Hi World! 👋 <br/> <br/> 
+<h3> Hi World! 👋 <br/> <br/> 
   I am a Full Stack web developer. <br/>  <br/> 
   I am a Ironhack alumni and continue to expand my knowledge as a 42Madrid student.
-<h2/>
+<h3/>
+  
+
 
 
 <div align="center"/>
