@@ -4,7 +4,7 @@
 </h3>
   
 
-*Get to know me better by checking my portfolio: https://gonzalomartincano.github.io/PORTFOLIO/ or my social networks: https://www.linkedin.com/in/gonzalomartincano/
+Get to know me better by checking my portfolio: https://gonzalomartincano.github.io/PORTFOLIO/ or my SM: https://www.linkedin.com/in/gonzalomartincano/
 
 
 <div align="center"/>
