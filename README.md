@@ -1,4 +1,4 @@
-<div align="center" bg_color="black"/>
+<div align="center" .bg-blue-light/>
 <h3> Hi World! 👋 <br/> <br/> 
   I am a Full Stack Web Developer. <br/>  <br/> 
   I am a Ironhack alumni and continue to expand my knowledge as a 42Madrid student.
