@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center"/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gonzalomartincano&count_private=true&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gonzalomartincano&count_private=true&show_icons=true&bg_color=white)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalomartincano&layout=compact)](https://github.com/gonzalomartincano/github-readme-stats)
