@@ -1,4 +1,4 @@
-<div align="center" class="bg-blue"/>
+<div align="center" class="bg-blue">
 <h3> Hi World! 👋 <br/> <br/> 
   I am a Full Stack Web Developer. <br/>  <br/> 
   I am a Ironhack alumni and continue to expand my knowledge as a 42Madrid student.
@@ -22,6 +22,8 @@ SocialMedia: https://www.linkedin.com/in/gonzalomartincano/
 <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
 <img  style="margin:50px"  width="150" src="https://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png">
 <img style="margin:50px" width="150" src="https://cdn-assets-cloud.frontify.com/local/frontify/h_lNxVXLqrDqb2kyrixW3lMmUl7n-aBRzJUzyvzD7_-wNvVN8ZAy1yjuMVHvq-pGYWI9XH22qCeIIM3Sq6UbttjJmI7TS9c4PtP2ESzPRZpMLvDNEUYUlys4RtHOB_zH">
+
+<div/>
 
 
 
