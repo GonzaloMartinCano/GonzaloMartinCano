@@ -20,6 +20,6 @@ SocialMedia: https://www.linkedin.com/in/gonzalomartincano/
 
 <img   width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
 <img   width="100" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
-<img   width="100" src="https://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png">
+<img   width="150" src="https://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png">
 
 
