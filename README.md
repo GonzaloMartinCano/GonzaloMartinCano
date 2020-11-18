@@ -6,7 +6,7 @@
 
 Get to know me better by checking:
 
-Portfolio: https://gonzalomartincano.github.io/PORTFOLIO/ 
+Portfolio: https://gonzalomartincano.github.io/PORTFOLIO/ <br/> 
 SM: https://www.linkedin.com/in/gonzalomartincano/
 
 
