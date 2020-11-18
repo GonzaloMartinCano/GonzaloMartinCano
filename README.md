@@ -1,8 +1,9 @@
-<div align="center" class="bg-blue">
+<div align="center" class="bg-gray-dark">
 <h3> Hi World! 👋 <br/> <br/> 
   I am a Full Stack Web Developer. <br/>  <br/> 
   I am a Ironhack alumni and continue to expand my knowledge as a 42Madrid student.
 </h3>
+ <div/>
   
 
 Get to know me better by checking:
