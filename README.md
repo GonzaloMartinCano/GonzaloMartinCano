@@ -1,5 +1,6 @@
 <h2> Hi World! 👋 <br/>
-  I am a Full Stack web developer. I am a Ironhack alumni and I continue to expand my knowledge as a 42Madrid student.
+  I am a Full Stack web developer. <br/> 
+  I am a Ironhack alumni and I continue to expand my knowledge as a 42Madrid student.
 <h2/>
 
 <!--
