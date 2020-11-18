@@ -4,6 +4,7 @@
 <h3/>
   
 
+You can get to know me better by checking my portfolio:  https://gonzalomartincano.github.io/PORTFOLIO/ or my social networks: https://www.linkedin.com/in/gonzalomartincano/
 
 
 <div align="center"/>
