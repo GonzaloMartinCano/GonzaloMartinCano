@@ -1,4 +1,6 @@
 <h2> ### Hi World! 👋
+  I am a Full Stack web developer. I am a Ironhack alumni and I continue to expand my knowledge as a 42Madrid student.
+<h2/>
 
 <!--
 **GonzaloMartinCano/GonzaloMartinCano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
