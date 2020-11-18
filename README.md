@@ -1,10 +1,10 @@
 <h3> Hi World! 👋 <br/> <br/> 
-  I am a Full Stack web developer. <br/>  <br/> 
+  I am a Full Stack Web Developer. <br/>  <br/> 
   I am a Ironhack alumni and continue to expand my knowledge as a 42Madrid student.
 </h3>
   
 
-Get to know me better by checking my portfolio: https://gonzalomartincano.github.io/PORTFOLIO/ or my social networks: https://www.linkedin.com/in/gonzalomartincano/
+*Get to know me better by checking my portfolio: https://gonzalomartincano.github.io/PORTFOLIO/ or my social networks: https://www.linkedin.com/in/gonzalomartincano/
 
 
 <div align="center"/>
