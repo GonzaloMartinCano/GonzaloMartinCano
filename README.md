@@ -21,7 +21,7 @@ SocialMedia: https://www.linkedin.com/in/gonzalomartincano/
 <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
 <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
 <img  style="margin:50px"  width="150" src="https://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png">
-<img $spacer-6 width="150" src="https://cdn-assets-cloud.frontify.com/local/frontify/h_lNxVXLqrDqb2kyrixW3lMmUl7n-aBRzJUzyvzD7_-wNvVN8ZAy1yjuMVHvq-pGYWI9XH22qCeIIM3Sq6UbttjJmI7TS9c4PtP2ESzPRZpMLvDNEUYUlys4RtHOB_zH">
+<img class="m-5" width="150" src="https://cdn-assets-cloud.frontify.com/local/frontify/h_lNxVXLqrDqb2kyrixW3lMmUl7n-aBRzJUzyvzD7_-wNvVN8ZAy1yjuMVHvq-pGYWI9XH22qCeIIM3Sq6UbttjJmI7TS9c4PtP2ESzPRZpMLvDNEUYUlys4RtHOB_zH">
 
 <div/>
 
